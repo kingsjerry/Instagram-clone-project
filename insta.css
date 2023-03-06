@@ -1,0 +1,64 @@
+.global-footer .footer-main li {
+    margin: 6px 18px 0 0;
+
+}
+
+.global-footer ul li a {
+    text-decoration: none;
+}
+
+.global-footer ul li {
+    display: inline-block;
+}
+
+.footer-main {
+    font-size: 13px;
+    font-size: .8125rem;
+    line-height: 1.6;
+}
+
+.global-footer .footer-main a {
+    color: rgb(142, 142, 142);
+}
+
+._aajm {
+    cursor: pointer;
+    height: 100%;
+    left: 0;
+    opacity: 0;
+    position: absolute;
+    top: 0;
+
+}
+
+._ab9r {
+    flex-wrap: wrap;
+}
+
+._ab9p {
+    flex: 0 0 auto;
+}
+
+._ab9h {
+    justify-content: center;
+    color: rgb(142, 142, 142);
+    font-size: 13px;
+    font-size: .8125rem;
+    line-height: 1.6;
+}
+
+._ab9k {
+    flex-direction: row;
+}
+
+._ab99 {
+    align-items: stretch;
+}
+
+._ab94 {
+    align-content: stretch;
+}
+
+._ab8w {
+    display: flex;
+}
